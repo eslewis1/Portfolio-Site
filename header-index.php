@@ -58,7 +58,7 @@
                         <a href="index.php">ERICA LEWIS</a>
             </div>
             <nav id = "header-navigation">
-                        <p><a href="index.php">WORK</a></p>
+                        <p><a href=#total-work>WORK</a></p>
                         <p><a href="about.php">ABOUT</a></p>
                         <p><a href="resume.php">RESUME</a></p>
             </nav>

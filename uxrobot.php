@@ -3,8 +3,15 @@
         <p class="top-bar top-text" " style="color:white;background-color:#213872;">I planned and conducted a <i>scenario-based study</i> investigating materials for a household robot to understand the <i>user experience.</i> </p>
 </div>
  -->
+
+    <img src="images/minnie.ppg">
+    <img src="images/threematerials.png">
+    <img src="images/minstudy.png">
+
+
     <div>
-        <p class="introT"> I planned and conducted a <span style="color:rgba(33, 56, 114, 1)"><b> user experience scenario-based study </b> </span> that explored user's interactions with various materials for a household robot.</p>
+        <h1 class="header-text" style="color:black;padding-top:1.5em;padding-left:2em;padding-right:2.5em;">User Experience Study</h1>
+        <p class="body-text">I planned and conducted a user experience scenario-based study that explored user's interactions with various materials for a household robot.</p>
     </div>
 
 
@@ -12,7 +19,7 @@
 
     <img src="images/robot.png" style="height:30em;width:20em;float:left;">
 
-    <h1>Purpose</h1><br>
+    <h class="header-text">Purpose</h2>
             <p class="body-text"> For my senior design project I am attempting to combine my major in Materials Science and Engineering with Human-Computer Interaction. I am studying how using soft, flexible 3D printed materials can affect the user experience with a household robot. Most robots are made out of hard plastics and I am interested in studying if softer materials, like elastomers, can influence a user's interactions.</p><br>
 
     <h1> <span class="text highlight">Solution</span></h1><br>

@@ -4,13 +4,15 @@
     <meta name="viewport" content="width, initial-scale=1">
     <title> Erica Lewis</title>
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <script src="https://use.fortawesome.com/41cb11fb.js"></script>
+<script src="https://use.fortawesome.com/41cb11fb.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400" rel="stylesheet">
     <!-- link to jQuery hosted by Google -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <!-- script to highlight active page -->
 
+
+      <link rel="import" href="love-heart.html">
+    <!-- script to highlight active page -->
 
 
 <!--java for active header -->

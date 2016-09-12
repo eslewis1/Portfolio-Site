@@ -1,50 +1,23 @@
 <?php include("header.php");?>
-  <!-- <div>
-        <p class="top-bar top-text" " style="color:white;background-color:#213872;">I planned and conducted a <i>scenario-based study</i> investigating materials for a household robot to understand the <i>user experience.</i> </p>
+
+<div class="color-box" style="background-color:#213872;align-content:center;">
+        <div class="main-topimages" style="background-color:#213872;height:20em;">
+            <img src="images/robot.png" style="height:14em;margin-bottom:.75em;">
+            <img src="images/uxrobot/threematerials.png" style="height:17em;">
+            <img src="images/uxrobot/minstudy.png" style="height:18em;">
+        </div>
 </div>
- -->
 
-    <img src="images/minnie.ppg">
-    <img src="images/threematerials.png">
-    <img src="images/minstudy.png">
-
-
-    <div>
-        <h1 class="header-text" style="color:black;padding-top:1.5em;padding-left:2em;padding-right:2.5em;">User Experience Study</h1>
-        <p class="body-text">I planned and conducted a user experience scenario-based study that explored user's interactions with various materials for a household robot.</p>
+<div class="page-wrapper">
+    <div class="main-introT">
+        <span class="main-title">User Experience Study</span>
     </div>
 
+        <div class="main-text">
+            <p class="main-subtitle">Challenge</p><p>Currently, hard, rigid materials are used in the fabrication of robots. While soft materials have been explored in fields like soft robotics and for silicone humanoid robots, the user experience of these materials has not been explored.</p><br><br>
 
-<div class="main-text">
-
-    <img src="images/robot.png" style="height:30em;width:20em;float:left;">
-
-    <h class="header-text">Purpose</h2>
-            <p class="body-text"> For my senior design project I am attempting to combine my major in Materials Science and Engineering with Human-Computer Interaction. I am studying how using soft, flexible 3D printed materials can affect the user experience with a household robot. Most robots are made out of hard plastics and I am interested in studying if softer materials, like elastomers, can influence a user's interactions.</p><br>
-
-    <h1> <span class="text highlight">Solution</span></h1><br>
-            <p class="body-text"> I conducted 16 user interviews and analyzed the data using grounded theory and content analysis. The paper will be submitted to the CHI '17 conference.</p><br>
-
-    <h1> <span class="text highlight">Research</span></h1><br>
-
-            <p class="body-text">I started off by researching household robots to understand how users interact with the robot. Then, I put together storyboards which illustrated different scenarios and user interactions. I refined my storyboards after receiving feedback from the madison HCI lab.</p>
-            <br>
-    <h1> <span class="text highlight">Materials</span></h1><br>
-            <p class="body-text"> I planned out my study and submitted it for IRB approval. The household robot design was based on the HELLO ROBO platform because it is considered to be approachable and accessible. Three different materials were used for the front torso part of the robot. The materials were:
-                <ul style="padding-left:3em;">
-                    <li>3D printed Acrylonitrile Butadiene Styrene (ABS)</li>
-                    <li>3D printed ABS covered with a silicone coating</li>
-                    <li>3D printed Polyurethane (PU)</li>
-                </ul>
-            The ABS part represented hard materials which are commonly used in 3D printing. The ABS with a silicone coating part represents a material that is sturdy and stiff, yet the outside is soft to the touch. The PU part represents a soft, bendable material which is not typically used for robot fabrication. A complete HELLO ROBO robot was printed with ABS to give participants a reference for how the parts are connected to the household robot.</p>
-
-    <h1> <span class="text highlight">Methods and Analysis</span></h1><br>
-            <p class="body-text">The scenario-based study included a questionnaire, interviews, and scenario tasks was used to evaluate a user's experience. The study included observations and interviews from 16 participants. The study received IRB approval. Grounded theory and content analysis were used for data analysis.
-            <br>
-           Currently a paper is being drafted to be submitted to the CHI '17 conference.</p>
-
-
-</div>
+            <p class="main-subtitle"> Solution</p><p> I explored 3D printing structurally soft, structurally hard, and structurally hard but texturally soft materials for a household robots. A scenario-based study with 16 participants was conducted. The contents are presented using grounded theory and content analysis. A note will be presented </p>
+        </div><br>
 
 
 
@@ -54,4 +27,6 @@
 
 
 
-<?php include("footer.php");?>
+
+
+

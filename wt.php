@@ -30,7 +30,7 @@
             <img src="images/wt-pics/sketch.jpg" class="main-img">
         </div><br>
 
-            <p class="main-subtitle">Sketching</p>
+            <div class="main-subtitle">Sketching</div>
         <div class="main-text">
             <p> The first thing I did was I started sketching ideas. I decided that I wanted to have the light radiate from the user's arms. Whether the user was running or paddling in the ocean, the forward motion of their arms could provide light in front of the users. I decided that I would have two neopixels along the arm and connect them around the collar. I was going to have the accelerometer and lilypad on the wrist because I thought that would be where the most movement would come from, and it could be hidden by 3D printed cuffs.</p>
         </div>
@@ -62,22 +62,7 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
+    <?php include("work.php");?>
 </body>
 </html>

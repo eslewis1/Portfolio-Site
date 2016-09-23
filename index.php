@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <?php include("header-index.php");?>
+    <?php include("header.php");?>
 
 <div class="outer-wrapper">
 <div class="content-wrapper">
@@ -10,7 +10,7 @@
     <div class="introT">
         <span class="intro-title">UX Designer</span><span id="intro-x">x</span><span class="intro-title">Materials Engineer</span><br>
 
-        <p class="intro-summary">I am a student studying human-computer interaction and materials engineering. I hope to improve the way that people interact with technology.</p>
+        <p class="intro-summary">improving how people interact with technology</p>
     </div>
 
     <div id="intro-bottom-space">
@@ -41,6 +41,8 @@
             </div>
         </div></a>
 
+        <div id="project-space">
+        </div>
         <a href="uxrobot.php"><div class="project-item" style="background-color:#213872;">
             <img src="images/robot.png">
              <div class="project-item-overlay">

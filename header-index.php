@@ -49,7 +49,7 @@
 
 </head>
 
-<body>
+<body id="body">
     <header id = "header-outer-wrapper">
         <div id= "header-inner-wrapper">
             <div id = "header-logo">

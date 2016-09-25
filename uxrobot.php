@@ -22,7 +22,7 @@
             <p class="main-subtitle"> Solution</p>
 
         <div class="main-text">
-            <p> I explored 3D printing soft and hard materials for a household robot, based on the HELLO ROBO platform. I conducted a scenario-based study with 16 participants. The study consisted of a questionnaire, scenarios of use, and an interview to understand user's preferences and experience. The findings are presented with grounded theory and content analysis. A note will be submitted to CHI'17.</p>
+            <p> I explored 3D printing soft and hard materials for a household robot, based on the HELLO ROBO platform. I conducted a scenario-based study with 16 participants. The study consisted of a questionnaire, scenarios of use, and an interview to understand user's preferences and experience. The findings are presented with grounded theory and content analysis. A note was submitted to CHI'17.</p>
         </div><br>
 
         <div class="main-img-group">
@@ -39,7 +39,7 @@
         </div>
 
         <div class="main-text">
-            <p> The user experience was analyzed with scenarios of use. The scenarios were household activities or situations. One example, has a particpant hug the robot while others had the participants carry or move the robot.  </p>
+            <p> The user experience was analyzed with scenarios of use. The scenarios were household activities or situations. For example, the participant was given a situation to carry the robot. Another, had the participant hug the robot. Results from the study were analyzed qualitatively (using content analysis and grounded theory) and quantitatively. This research was submitted to CHI'17 (<a href class="main-link" ="https://chi2017.acm.org/">chi2017.acm.org</a>).</p>
         </div><br>
 </div>
 

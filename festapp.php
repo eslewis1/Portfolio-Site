@@ -5,7 +5,7 @@
 <div class="color-box" style="background-color:#53ad9c;">
     <div class="main-topimages" style="background:#53ad9c;align-items:center;padding-top:1em;padding-bottom:1em;">
         <img src="images/fest/appp.png" id="fest-top-img" >
-        <img src="images/fest/searchApp.png" id="fest-top-img1" >
+        <img src="images/fest/searchapp.png" id="fest-top-img1" >
         <img src="images/fest/rateapp.png" id="fest-top-img2" >
         <img src="images/fest/artistpage.png" id="fest-top-img3">
     </div>

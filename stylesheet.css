@@ -259,7 +259,6 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     text-align:center;
     padding:0;
     margin: auto;
-    background-color: #F2413D;
     max-width: 1400px;
 }
 
@@ -525,7 +524,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 #robot-img-study{
-    height: 27em;
+    height: 26em;
     padding-left:1.2em;
     padding-right:1em;
     padding-top:1em;
@@ -533,7 +532,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 #robot-img-user{
-    height: 27em;
+    height: 26em;
     padding-left:1.2em;
     padding-right:1em;
     padding-top:1em;
@@ -558,14 +557,32 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 @media screen and (max-width:1000px){
-#robot-img-materials{
-    width:100%;
-    height:auto;
-    padding-bottom:1em;
-    padding-top: 1em;
-    padding-left:0em;
-    padding-right:0;
+    #robot-img-materials{
+        width:100%;
+        height:auto;
+        padding-bottom:1em;
+        padding-top: 1em;
+        padding-left:0em;
+        padding-right:0;
 }
+
+    #robot-img-study{
+        width:100%;
+        height:auto;
+        padding-bottom:1em;
+        padding-top: 1em;
+        padding-left:0em;
+        padding-right:0em;
+}
+
+    #robot-img-user{
+        width:100%;
+        height:auto;
+        padding-bottom:1em;
+        padding-top: 1em;
+        padding-left:0em;
+        padding-right:0em;
+    }
 
 }
 

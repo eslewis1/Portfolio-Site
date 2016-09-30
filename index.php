@@ -10,7 +10,7 @@
     <div class="introT">
         <span class="intro-title">UX Designer</span><span id="intro-x">x</span><span class="intro-title">Materials Engineer</span><br>
 
-        <p class="intro-summary">improving how people interact with technology</p>
+        <p class="intro-summary">I am a UW-Madison student interested in human-computer interaction and user experience design. The four projects below are some examples of my work.</p>
     </div>
 
     <div id="intro-bottom-space">

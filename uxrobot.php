@@ -1,19 +1,15 @@
 <?php include("header.php");?>
 
-<div class="color-box" style="background-color:#213872;align-content:center;">
-        <div class="main-topimages" style="background-color:#213872;height:20em;">
-            <img src="images/uxrobot/1.png" id="robot-img1">
-            <img src="images/robot.png" id="robot-img2" ;">
-            <img src="images/uxrobot/2.png" id="robot-img3">
+        <div class="main-img-group">
+            <img src="images/uxrobot/interview.jpg" id="robot-img-study">
         </div>
-</div>
 
 <div class="page-wrapper">
     <div class="main-introT">
         <span class="main-title">User Experience Study</span>
     </div>
 
-            <p class="main-subtitle">Challenge</p>
+            <p class="main-subtitle">Problem</p>
 
             <div class="main-text">
                 <p>Currently, hard, rigid materials are used in the fabrication of robots. While soft materials have been explored in fields like soft robotics and for silicone humanoid robots, the user experience of these materials has not been explored.</p><br><br>
@@ -34,7 +30,6 @@
         </div><br>
 
         <div class="main-img-group">
-            <img src="images/uxrobot/interview.jpg" id="robot-img-study">
             <img src="images/uxrobot/minstudy.jpg" id="robot-img-user">
         </div>
 

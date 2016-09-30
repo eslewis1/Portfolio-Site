@@ -2,21 +2,18 @@
 <html>
     <?php include("header.php");?>
 
-<div class="color-box" style="background-color:#53ad9c;">
-    <div class="main-topimages" style="background:#53ad9c;align-items:center;padding-top:1em;padding-bottom:1em;">
-        <img src="images/fest/appp.png" id="fest-top-img" >
-        <img src="images/fest/searchapp.png" id="fest-top-img1" >
-        <img src="images/fest/rateapp.png" id="fest-top-img2" >
-        <img src="images/fest/artistpage.png" id="fest-top-img3">
-    </div>
-</div>
+        <div class="main-img-group">
+            <img src="images/fest/iphonehand.jpg" style="padding:2em;height:50em;">
+        </div>
+
+
 
 <div class="page-wrapper">
     <div class="main-introT">
         <span class="main-title">Festival App Design</span>
     </div>
 
-            <p class="main-subtitle">Challenge</p>
+            <p class="main-subtitle">Problem</p>
 
         <div class="main-text">
             <p>There are so many new music festivals, it can be difficult for music lovers to find out about music festivals that are of interest and convenient. </p><br><br></div>

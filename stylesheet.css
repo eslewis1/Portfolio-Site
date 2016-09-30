@@ -268,14 +268,14 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     font-weight: 200;
     color: black;
     line-height: 170%;
-    margin-right: 15em;
-    margin-left: 15em;
+    margin-right: 21.1em;
+    margin-left: 21.1em;
     font-size: 1em;
     letter-spacing: .07em;
 }
 
 .main-title{
-    padding-left:6.4em;
+    padding-left:9.5em;
     font-size:2em;
     letter-spacing:.01em;
     font-weight: 400;
@@ -290,7 +290,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 
 .main-subtitle{
     font-size: 1.3em;
-    padding-left: 11.5em;
+    padding-left: 16.25em;
     letter-spacing: .05em;
     font-weight: 300;
     padding-bottom: .75em;
@@ -348,15 +348,35 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     text-align: center;
 }
 
-@media screen and (max-width: 960px){
-    .main-img-web-last{
-        display: none;
-    }
+@media screen and (max-width: 1100px){
+.main-title{
+    padding-left:5.5em;
+}
+
+.main-subtitle{
+    font-size: 1.3em;
+    padding-left: 10.1em;
+    letter-spacing: .05em;
+    font-weight: 300;
+    padding-bottom: .75em;
+}
+
+.main-text{
+    background-color: white;
+    font-weight: 200;
+    color: black;
+    line-height: 170%;
+    margin-right: 13.1em;
+    margin-left: 13.1em;
+    font-size: 1em;
+    letter-spacing: .07em;
+}
+
 }
 
 /* padding right and left not changing*/
 
-@media screen and (max-width:640px){
+@media screen and (max-width:760px){
     #main-outer-wrapper{
     font-size: .8em;
     padding-right:1em;
@@ -430,23 +450,24 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 #fest-top-img{
     height:17em;
     width:9em;
-    margin-right:8em;
+    margin-right:4em;
 }
 
 #fest-top-img1{
     height:17em;
     width:9em;
-    margin-right:8em;
+    margin-right:4em;
 }
 
 #fest-top-img2{
     height:17em;
     width:9em;
-    margin-right:8em;
+    margin-right:4em;
 }
 
 #fest-top-img3{
-    height:17em;width:9em;
+    height:17em;
+    width:9em;
 }
 
 #fest-img-persona{
@@ -516,7 +537,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 #robot-img-materials{
-    height: 24em;
+    height: 18em;
     padding-left:1.2em;
     padding-right:1em;
     padding-top:1em;
@@ -524,7 +545,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 #robot-img-study{
-    height: 26em;
+    height: 29em;
     padding-left:1.2em;
     padding-right:1em;
     padding-top:1em;

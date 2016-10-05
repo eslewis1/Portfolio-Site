@@ -275,7 +275,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 .main-title{
-    padding-left:9.5em;
+    padding-left:9.4em;
     font-size:2em;
     letter-spacing:.01em;
     font-weight: 400;
@@ -301,7 +301,6 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     text-align: center;
     padding-top: .75em;
     padding-bottom: .75em;
-
 }
 
 .main-img-web{
@@ -324,6 +323,22 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     height:30em;
     /*width:18em;*/
 }
+
+.title-img{
+    height:37em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:21.1em;
+    padding-right:0em;
+    }
+
+.title2-img{
+    height:27em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:21.1em;
+    padding-right:0em;
+    }
 
 .main-wireframes{
     padding-left:1.2em;
@@ -372,6 +387,23 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     letter-spacing: .07em;
 }
 
+.title-img{
+    height:32em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:13.2em;
+    padding-right:0em;
+    }
+
+.title2-img{
+    height:21em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:13.2em;
+    padding-right:0em;
+    }
+
+
 }
 
 /* padding right and left not changing*/
@@ -382,6 +414,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     padding-right:1em;
     padding-left:1em;
     }
+
 
     .main-img{
     width:100%;
@@ -401,10 +434,6 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     column-gap:0;
     }
 
-    .main-img-group{
-
-    }
-
     .main-img-web{
     display:none;
     }
@@ -416,6 +445,24 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
     .main-title{
     padding-left:0.15em;
     font-size: 1.65em;
+    }
+
+    .title-img{
+    width:100%;
+    height:auto;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:0em;
+    padding-right:0em;
+    }
+
+    .title2-img{
+    width:100%;
+    height:auto;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-left:0em;
+    padding-right:0em;
     }
 
     .main-introT{
@@ -537,7 +584,7 @@ p,.introT, #intro-work,.intro-title, h1, #header-logo, .main-title, #header-navi
 }
 
 #robot-img-materials{
-    height: 18em;
+    height: 15em;
     padding-left:1.2em;
     padding-right:1em;
     padding-top:1em;

@@ -1,13 +1,14 @@
 <?php include("header.php");?>
 
+
+<div class="page-wrapper">
 <div >
-    <img src="images/wt-pics/arm.jpg" style="display:block;margin:0 auto;height:35em;">
+    <img src="images/wt-pics/arm.jpg" class="title-img">
     <div class="main-introT">
         <span class="main-title">Interactive Speed Shirt</span>
     </div>
 </div>
 
-<div class="page-wrapper">
             <p class="main-subtitle">Problem</p>
 
     <div class="main-text"><p>Many athletes work out in the early mornings and nights when it is too dark for them to be seen by other drivers or people. It is important that the athletes can be seen by others to ensure their safety.</p><br><br></div>

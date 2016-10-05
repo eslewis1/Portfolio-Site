@@ -2,16 +2,12 @@
 <html>
     <?php include("header.php");?>
 
-        <div class="main-img-group">
-            <img src="images/fest/iphonehand.jpg" style="padding:2em;height:50em;">
-        </div>
-
-
 
 <div class="page-wrapper">
+    <img src="images/fest/iphonehand.jpg" class="title-img">
     <div class="main-introT">
         <span class="main-title">Festival App Design</span>
-    </div>
+</div>
 
             <p class="main-subtitle">Problem</p>
 
@@ -67,7 +63,6 @@
     </div>
 
     <div class="main-img-group">
-        <img src="images/fest/overview-1.png" class="main-wireframes">
         <img src="images/fest/rateapp.png" class="main-wireframes">
         <img src="images/fest/artistpage.png" class="main-wireframes">
     </div>

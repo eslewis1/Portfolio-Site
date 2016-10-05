@@ -1,13 +1,10 @@
 <?php include("header.php");?>
 
-        <div class="main-img-group">
-            <img src="images/uxrobot/interview.jpg" id="robot-img-study">
-        </div>
-
 <div class="page-wrapper">
+    <img src="images/uxrobot/interview.jpg" class="title2-img">
     <div class="main-introT">
         <span class="main-title">User Experience Study</span>
-    </div>
+</div>
 
             <p class="main-subtitle">Problem</p>
 
